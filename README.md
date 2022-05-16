@@ -1,6 +1,4 @@
-### description
-
-NEO Pixel LED color chooser  
+### NEO Pixel LED color chooser  
 
 This project is designed for neo pixel led stripe. using this java application and arduino UNO 
 you can send RGB values to neo pixel stripe in Custom Color mode. application has multiple color pattern modes. 
