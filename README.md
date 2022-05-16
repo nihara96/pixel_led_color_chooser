@@ -16,7 +16,7 @@ you can send RGB values to neo pixel stripe in Custom Color mode. application ha
 
 Get the code.
 
- <pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
+ <pre>git clone https://github.com/nihara96/pixel_led_color_chooser.git</pre>
  
 Copy Arduino CLI and config
 
